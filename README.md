@@ -11,7 +11,7 @@ Esta atividade é uma página de captura bem simples simulando um workshop de ma
 
 ---
 
-## Como Abrir
+### Como Abrir
 
 - Clone o repositório e abra index.html no navegador.
   **git clone https://github.com/seu-usuario/workshop-landing-page.git**
