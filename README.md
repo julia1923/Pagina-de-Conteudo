@@ -1,7 +1,7 @@
 Página de Conteúdo
 ---
 
-### 📣 Workshop de Marketing
+### Workshop de Marketing
 
 Esta atividade é uma página de captura bem simples simulando um workshop de marketing. A página tem como objetivo promover um evento fictício e coletar inscrições por meio de um formulário que possui integração com o Mailchimp.
 
@@ -18,7 +18,7 @@ Esta atividade é uma página de captura bem simples simulando um workshop de ma
 - ou abra pelo link: https://julia1923.github.io/Pagina-de-Conteudo/
 
 
-### 💻 Tecnologias utilizadas
+### Tecnologias utilizadas
 As tecnologias utilizadas para a atividade foram:
 
 - HTML
