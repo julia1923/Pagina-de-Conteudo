@@ -17,7 +17,7 @@ Esta atividade é uma página de captura bem simples simulando um workshop de ma
 
   `git clone https://github.com/seu-usuario/workshop-landing-page.git`
 
-- ou abra pelo link: 
+- ou abra pelo link: https://julia1923.github.io/Pagina-de-Conteudo/
 
 
 ### 💻 Tecnologias utilizadas
