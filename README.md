@@ -13,7 +13,7 @@ Esta atividade é uma página de captura bem simples simulando um workshop de ma
 
 - Clone o repositório e abra index.html no navegador:
 
-  `git clone https://github.com/seu-usuario/workshop-landing-page.git`
+  `git clone https://github.com/julia1923/Pagina-de-Conteudo.git`
 
 - ou abra pelo link: https://julia1923.github.io/Pagina-de-Conteudo/
 
